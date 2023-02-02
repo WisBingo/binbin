@@ -1,0 +1,3 @@
+[submodule "childProject/source"]
+	path = childProject/source
+	url = git@github.com:WisBingo/subproject.git
